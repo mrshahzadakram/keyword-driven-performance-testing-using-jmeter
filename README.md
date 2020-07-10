@@ -1,6 +1,6 @@
 # Keyword Driven Framework for Performance Testing Using Jmeter
 
-A sample JMeter test plan to design your performance test using business keywords.
+A sample JMeter test plan to design your performance test using business keywords. 
 
 Data Driven Framework:
 Creating a data driven framework is very easy in JMeter. You come up with a test plan for a business work flow; remove any hard coded test data and parameterize it to work for the data from a file / DB. Most of us would have done this using CSV Data Set Config test element in JMeter.
@@ -24,3 +24,4 @@ Edit Ticket
 View Ticket
 Cancel Ticket
 Forgot Password
+Please open jmx file in jmeter for a better understanding. 
