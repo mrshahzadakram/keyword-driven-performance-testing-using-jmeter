@@ -12,16 +12,15 @@ For Example:
 
 Lets assume we have a web based application in which an user can register to create an account to book flight ticket, view the ticket details, edit, cancel etc. An already registered user can also do all these activities. If the user forgets the credentials, he can use ‘forgot password’ page to get the credentials.
 
-Considering the above requirements, We could create different functions for below functionalities.
-
-
+Considering the above requirements, We could create different functions for below functionalities (Please open jmx file in jmeter for a better understanding).
  
-Register New User
-Login
-Logout
-Book Ticket
-Edit Ticket
-View Ticket
-Cancel Ticket
-Forgot Password
-Please open jmx file in jmeter for a better understanding. 
+. Register New User
+. Login
+. Logout
+. Book Ticket
+. Edit Ticket
+. View Ticket
+. Cancel Ticket
+. Forgot Password
+
+
